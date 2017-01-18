@@ -1,2 +1,2 @@
 # 101Hack45
-101 Hack 45 Codes
+Here, I am posting my solutions to the recently concluded 101Hack45 competition on hackerrank.
